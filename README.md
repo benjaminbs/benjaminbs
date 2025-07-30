@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi there! I'm Benjamin Beltrán Sánchez
 
-<!--
-**benjaminbs/benjaminbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Fullstack Developer** with over 4 years of experience building scalable and user-focused web applications. I specialize in Microsoft technologies (.NET) and modern frontend development with React.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Backend
+- C#, .NET Core, .NET Framework
+- RESTful APIs
+- SQL Server
+
+### Frontend
+- React
+- JavaScript, jQuery
+
+### Tools
+- Git & GitHub
+- Visual Studio, VS Code
+- Postman
+
+---
+
+## 🚀 Selected Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Lefarma Clinical System** *(private)* | Full-featured platform for patient management, appointments, medical records, and nutrition tracking | .NET Core, SQL Server, React |
+
+> 🔒 Some professional projects are private due to confidentiality, but I'm happy to discuss them during an interview.
+
+---
+
+## 📫 Let's connect
+
+- ✉️ benjamin.beltran.sanchez@gmail.com  
+- 🌐 [LinkedIn](https://linkedin.com/in/benjamin-beltrán-sánchez)  
+- 📄 [Resume (PDF)](https://github.com/benjaminbs/CV/blob/main/CV-BenjaminBeltranSanchez.pdf)
+
+---
+
+## 💡 What I value as a developer
+
+- Clean, maintainable code
+- Practical solutions with real impact
+- Clear communication with non-technical users
+- Continuous learning and improvement
+
+---
+
+## ⚡ Fun fact
+
+When I'm not coding, I enjoy exploring new tech, refactoring legacy systems, and riding my bike 🚴‍♂️
