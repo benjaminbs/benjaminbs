@@ -40,3 +40,10 @@ I'm a **Fullstack Developer** with over 4 years of experience building scalable 
 ## ⚡ Fun fact
 
 When I'm not coding, I enjoy exploring new tech, refactoring legacy systems, and riding my bike 🚴‍♂️
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=benjaminbs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminbs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
